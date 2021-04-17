@@ -1,0 +1,3 @@
+.rotation-triangle {
+  animation: rotation-triangle 20s backwards linear infinite;
+}
