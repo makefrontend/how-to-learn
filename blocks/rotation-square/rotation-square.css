@@ -1,4 +1,0 @@
-.rotation-square {
-  transform: rotate(-15deg);
-  animation: rotation-square 20s backwards linear infinite;
-}
